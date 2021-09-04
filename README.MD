@@ -1,2 +1,2 @@
-Practica integradora local
-añadido un comentario local
+Practica integradora con diferencias
+añadido un comentario con conflictos
